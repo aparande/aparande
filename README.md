@@ -1,6 +1,6 @@
 ### Hello 👋!
 
-I’m currently a Flight Software Engineer at [Astranis](astranis.com) writing software for our MicroGEO Satellites. 
+I’m currently a Software Team Lead at [Astranis](astranis.com) where I work on firmware and backend services for the ground stations that monitor and control both our satellites and the internet service they provide. Previously at Astranis, I led the development for our Payload firmware, which is currently running on 4 satellites providing Internet across the United States and Phillipines.
 
 In my free time, I love to 
 - Hack together cool projects. You can see a bunch of them on GitHub below.
